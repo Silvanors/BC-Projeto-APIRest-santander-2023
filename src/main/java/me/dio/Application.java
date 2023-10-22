@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //o código mermaid fornecido pelo chat pode ser usado como gráfico no github utilizando '''...'''
 //pode ser consultado o site "mermaid.js.org" para conhecer mais
 //o deploy será realizado no https://railway.app pela conta do github.
+//Ajustando...
 @SpringBootApplication
 public class Application {
 
